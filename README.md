@@ -15,6 +15,8 @@
   </a>
 </p>
 
+Keep position of text editor at focus line while resizing e.g. split pane. The mouse wheel and cursor movement are traced.
+
 ## Installation
 
 To install `keep-position` search for [keep-position](https://web.pulsar-edit.dev/packages/keep-position) in the Install pane of the Pulsar settings or run `ppm install keep-position`.
