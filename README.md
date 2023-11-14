@@ -1,17 +1,17 @@
 # keep-focus
 
 <p align="center">
-  <a href="https://github.com/bacadra/pulsar-keep-focus/tags">
-  <img src="https://img.shields.io/github/v/tag/bacadra/pulsar-keep-focus?style=for-the-badge&label=Latest&color=blue" alt="Latest">
+  <a href="https://github.com/bacadra/pulsar-keep-position/tags">
+  <img src="https://img.shields.io/github/v/tag/bacadra/pulsar-keep-position?style=for-the-badge&label=Latest&color=blue" alt="Latest">
   </a>
-  <a href="https://github.com/bacadra/pulsar-keep-focus/issues">
-  <img src="https://img.shields.io/github/issues-raw/bacadra/pulsar-keep-focus?style=for-the-badge&color=blue" alt="OpenIssues">
+  <a href="https://github.com/bacadra/pulsar-keep-position/issues">
+  <img src="https://img.shields.io/github/issues-raw/bacadra/pulsar-keep-position?style=for-the-badge&color=blue" alt="OpenIssues">
   </a>
-  <a href="https://github.com/bacadra/pulsar-keep-focus/blob/master/package.json">
-  <img src="https://img.shields.io/github/languages/top/bacadra/pulsar-keep-focus?style=for-the-badge&color=blue" alt="Language">
+  <a href="https://github.com/bacadra/pulsar-keep-position/blob/master/package.json">
+  <img src="https://img.shields.io/github/languages/top/bacadra/pulsar-keep-position?style=for-the-badge&color=blue" alt="Language">
   </a>
-  <a href="https://github.com/bacadra/pulsar-keep-focus/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/bacadra/pulsar-keep-focus?style=for-the-badge&color=blue" alt="Licence">
+  <a href="https://github.com/bacadra/pulsar-keep-position/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/bacadra/pulsar-keep-position?style=for-the-badge&color=blue" alt="Licence">
   </a>
 </p>
 
@@ -19,9 +19,9 @@ Keep position of text editor at focus line while resizing e.g. split pane. The m
 
 ## Installation
 
-To install `keep-focus` search for [keep-focus](https://web.pulsar-edit.dev/packages/keep-focus) in the Install pane of the Pulsar settings or run `ppm install keep-focus`.
+To install `keep-position` search for [keep-position](https://web.pulsar-edit.dev/packages/keep-position) in the Install pane of the Pulsar settings or run `ppm install keep-position`.
 
-Alternatively, run `ppm install bacadra/pulsar-keep-focus` to install a package directly from Github repository.
+Alternatively, run `ppm install bacadra/pulsar-keep-position` to install a package directly from Github repository.
 
 # Contributing [🍺](https://www.buymeacoffee.com/asiloisad)
 
