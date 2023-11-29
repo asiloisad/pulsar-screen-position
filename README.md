@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Keep position of text editor at focus line while resizing e.g. split pane. The mouse wheel and cursor movement are traced.
+Keep position of text editor at focus line while resizing e.g. split pane or font resize. A mouse wheel and cursor movements are traced.
 
 ## Installation
 
