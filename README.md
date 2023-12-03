@@ -19,9 +19,7 @@ Keep position of text editor at focus line while resizing e.g. split pane or fon
 
 ## Installation
 
-To install `keep-focus` search for [keep-focus](https://web.pulsar-edit.dev/packages/keep-focus) in the Install pane of the Pulsar settings or run `ppm install keep-focus`.
-
-Alternatively, you can run `ppm install bacadra/pulsar-keep-focus` to install a package directly from the Github repository.
+To install `keep-focus` search for [keep-focus](https://web.pulsar-edit.dev/packages/keep-focus) in the Install pane of the Pulsar settings or run `ppm install keep-focus`. Alternatively, you can run `ppm install bacadra/pulsar-keep-focus` to install a package directly from the Github repository.
 
 # Contributing [🍺](https://www.buymeacoffee.com/asiloisad)
 
