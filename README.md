@@ -8,4 +8,4 @@ To install `keep-focus` search for [keep-focus](https://web.pulsar-edit.dev/pack
 
 # Contributing
 
-If you have any ideas on how to improve the package, spot any bugs, or would like to support the development of new features, please feel free to share them via GitHub.
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback’s welcome!
