@@ -1,5 +1,5 @@
 {
-  "description": "Keep position of Text Editor while resizing",
+  "description": "Try keep your focys on the same point while resizing the pane",
   "keywords": [
     "bacadra",
     "focus",
@@ -10,7 +10,7 @@
     "atom": ">=1.100.0 <2.0.0"
   },
   "main": "./lib/main",
-  "name": "scroll-position",
+  "name": "screen-position",
   "homepage": "https://github.com/bacadra/pulsar-scroll-position",
   "url": "https://github.com/bacadra/pulsar-scroll-position",
   "repository": "https://github.com/bacadra/pulsar-scroll-position",
