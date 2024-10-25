@@ -1,10 +1,10 @@
-# scroll-position
+# screen-position
 
-Keep position of text editor at focus line while resizing e.g. split pane or font resize. A mouse wheel and cursor movements are traced.
+Try to keep your focus on the same point as you resize pane. This only works if soft wrap is enabled, because only then will the screen position be different from the buffer position. For example, there is a case where splitting the pane can result in total loss of focus.
 
 ## Installation
 
-To install `scroll-position` search for [scroll-position](https://web.pulsar-edit.dev/packages/scroll-position) in the Install pane of the Pulsar settings or run `ppm install scroll-position`. Alternatively, you can run `ppm install bacadra/pulsar-scroll-position` to install a package directly from the Github repository.
+To install `screen-position` search for [screen-position](https://web.pulsar-edit.dev/packages/screen-position) in the Install pane of the Pulsar settings or run `ppm install screen-position`. Alternatively, you can run `ppm install bacadra/pulsar-screen-position` to install a package directly from the Github repository.
 
 # Contributing
 
