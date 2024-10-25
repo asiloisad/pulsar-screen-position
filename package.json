@@ -10,7 +10,7 @@
     "atom": ">=1.100.0 <2.0.0"
   },
   "main": "./lib/main",
-  "name": "keep-focus",
+  "name": "scroll-position",
   "homepage": "https://github.com/bacadra/pulsar-keep-focus",
   "url": "https://github.com/bacadra/pulsar-keep-focus",
   "repository": "https://github.com/bacadra/pulsar-keep-focus",
