@@ -1,19 +1,17 @@
 {
+  "name": "screen-position",
   "description": "Try to keep your focus on the same point as you resize pane",
+  "repository": "https://github.com/bacadra/pulsar-screen-position",
   "keywords": [
     "bacadra",
     "focus",
     "scroll",
     "split"
   ],
+  "version": "1.3.2",
+  "license": "MIT",
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
   },
-  "main": "./lib/main",
-  "name": "screen-position",
-  "homepage": "https://github.com/bacadra/pulsar-screen-position",
-  "url": "https://github.com/bacadra/pulsar-screen-position",
-  "repository": "https://github.com/bacadra/pulsar-screen-position",
-  "version": "1.3.2",
-  "license": "MIT"
+  "main": "./lib/main"
 }
