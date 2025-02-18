@@ -1,7 +1,7 @@
 {
   "name": "screen-position",
   "description": "Try to keep your focus on the same point as you resize pane",
-  "repository": "https://github.com/bacadra/pulsar-screen-position",
+  "repository": "https://github.com/asiloisad/pulsar-screen-position",
   "keywords": [
     "screen",
     "position"

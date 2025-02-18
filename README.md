@@ -4,15 +4,15 @@ Try to keep your focus on the same point as you resize pane. This only works if 
 
 Ax example of `split-right` without package:
 
-![screen-position](https://github.com/bacadra/pulsar-screen-position/raw/master/assets/before.gif)
+![screen-position](https://github.com/asiloisad/pulsar-screen-position/raw/master/assets/before.gif)
 
 Ax example of `split-right` with package:
 
-![screen-position](https://github.com/bacadra/pulsar-screen-position/raw/master/assets/after.gif)
+![screen-position](https://github.com/asiloisad/pulsar-screen-position/raw/master/assets/after.gif)
 
 ## Installation
 
-To install `screen-position` search for [screen-position](https://web.pulsar-edit.dev/packages/screen-position) in the Install pane of the Pulsar settings or run `ppm install screen-position`. Alternatively, you can run `ppm install bacadra/pulsar-screen-position` to install a package directly from the Github repository.
+To install `screen-position` search for [screen-position](https://web.pulsar-edit.dev/packages/screen-position) in the Install pane of the Pulsar settings or run `ppm install screen-position`. Alternatively, you can run `ppm install asiloisad/pulsar-screen-position` to install a package directly from the Github repository.
 
 # Contributing
 
