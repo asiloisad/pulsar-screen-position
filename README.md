@@ -12,7 +12,7 @@ Ax example of `split-right` with package:
 
 ## Installation
 
-To install `screen-position` search for [screen-position](https://web.pulsar-edit.dev/packages/screen-position) in the Install pane of the Pulsar settings or run `ppm install screen-position`. Alternatively, you can run `ppm install asiloisad/pulsar-screen-position` to install a package directly from the Github repository.
+To install `screen-position` search for [screen-position](https://web.pulsar-edit.dev/packages/screen-position) in the Install pane of the Pulsar settings or run `ppm install screen-position`. Alternatively, you can run `ppm install asiloisad/pulsar-screen-position` to install a package directly from the GitHub repository.
 
 # Contributing
 
